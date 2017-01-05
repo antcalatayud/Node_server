@@ -1,0 +1,19 @@
+{
+  "name": "node_server_for_test",
+  "version": "1.0.0",
+  "description": "Node server created to test applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "test"
+  ],
+  "author": "Antonio Calatayud",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
